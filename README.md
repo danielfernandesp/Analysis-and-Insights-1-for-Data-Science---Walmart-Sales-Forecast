@@ -1,4 +1,4 @@
-# Análise e Insights #1 para Ciência dos Dados: Previsão de vendas do Hipermecado Walmart
+# Análise e Insights #1 para Ciência dos Dados: Previsão de vendas do Hipermercado Walmart
 # Analysis and Insights #1 for Data-Science: Walmart Sales Forecast
 
 *PT* O objetivo desta análise é prever as vendas das lojas de uma semana. Como há dados, vou analisar se as vendas são impactadas por fatores baseados no tempo. E a pergunta que norteia esse estudo será: como a inclusão de feriados em uma semana aumenta as vendas nas lojas?
