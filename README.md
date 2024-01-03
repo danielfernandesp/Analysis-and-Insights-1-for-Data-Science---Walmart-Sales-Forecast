@@ -9,19 +9,26 @@
 #### Como executar?
 
 1.O arquivo *Previsão de Vendas do Walmart.ipynb* é um arquivo compilado e mantém o código da análise assim como os resultados. 
+
 2. Para compilá-lo novamente basta ter um editor de ipynb como o Project Juyter (https://jupyter.org/install).
     2.1 - Baixar este repositório;
+
     2.2 - Abrir o arquivo *Previsão de Vendas do Walmart.ipynb* no Project Juyter;
+
     2.3 - Executar dentro do ambiente, seguindo as instruções de execução do mesmo.
 
 *EN*:
 #### How to run?
 
 1.The *Walmart Sales Forecast.ipynb* file is a compiled file and holds the analysis code as well as the results.
+
 2. To recompile it,you may have an ipynb editor like Project Juyter (https://jupyter.org/install).
-    2.1 - Download this repository;
-    2.2 - Open the file *Walmart Sales Forecast.ipynb* in Project Juyter;
-    2.3 - Execute within the environment, following its execution instructions.
+
+   2.1 - Download this repository;
+
+   2.2 - Open the file *Walmart Sales Forecast.ipynb* in Project Juyter;
+
+   2.3 - Execute within the environment, following its execution instructions.
 
 
 # SE DIVIRTA COM DADOS! -  HAVE FUN WITH DATA! 
